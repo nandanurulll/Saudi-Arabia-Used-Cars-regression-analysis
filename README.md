@@ -10,7 +10,7 @@ syarah.com merupakan sebuah platform yang menyediakan dan menjual lebih  dari 50
 
 Salah satu tantangan terbesar bagi perusahaan yang menjual mobil bekas adalah pemecehan masalah untuk dapat memiliki model bisnis yang menguntungkan secara finansial bagi pemilik/penjual (host) mobil dengan menjual mobil dengan harga yang sesuai, serta dapat memberikan pengalaman yang baik bagi pelanggan. Harga yang terlalu tinggi akan membuat pelanggan tidak tertarik untuk membeli dan memilih platform lain, namun harga yang terlalu rendah akan membuat pemilik rugi atau tidak mendapat profit yang sepadan.
 
-##Goals
+## Goals
 
 Berdasarkan permasalahan tersebut, perusahaan platform tentu perlu memiliki alat atau 'tool' yang dapat memprediksi serta membantu klien (pemilik mobil) untuk menentukan harga yang tepat untuk tiap mobil bekas yang akan dijual. Adanya perbedaan merk, model, tipe transmisi, jarak tempuh dan sebagainya dapat menambah keakuratan prediksi harga mobil bekas, yang mana dapat memberikan harga yang kompetitif di pasaran namun tetap mendatangkan profit bagi pemilik mobil juga harga yang masih terjangkau bagi pelanggan.
 
